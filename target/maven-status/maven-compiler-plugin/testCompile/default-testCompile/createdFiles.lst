@@ -1,0 +1,3 @@
+App\Main\GooglePage\googlePage.class
+App\stepDefinition\testCaseOne.class
+App\Main\BasePage.class
