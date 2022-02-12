@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: Scenario: Find how many we are
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 1, Time elapsed: 0.028 sec - in Scenario: Find how many we are
